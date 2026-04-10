@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,turtlecraft.gg
 DOMAIN-SUFFIX,turtle-server-cn.kz
 DOMAIN-SUFFIX,logon.turtle-server-cn.kz
 IP-CIDR,169.150.222.69/32,no-resolve
+IP-CIDR,169.150.222.223/32,no-resolve
